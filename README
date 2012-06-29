@@ -1,0 +1,10 @@
+= TODO List =
+
+This TODO list is based on https://github.com/shacker/django-todo/.
+
+Your first assignement is to make the app run without errors (there might be a couple mishaps on the provided code).
+
+The next assignement would be to add to the Item entity a "tags" field (no django-taggit or similar project is allowed).
+
+Any questions, shoot an email.
+
